@@ -1,0 +1,99 @@
+﻿#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510160331830607_89.jpg",CETV早期教育
+https://epg.pw/stream/16991fb8fbacc348a38d3f3475e4d43f5e1de3f9eb55b69978f187c4ccd61c33.ctv
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://epg.pw/media/images/channel/2019/04/05/large/20190405224938849843_83.jpg",港台电影
+https://epg.pw/stream/9733a9faedac1ecb653defe0c92c8c29c8e1f07b0869bd241b1b2ad7737c1dde.ctv
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png",TVB星河
+https://epg.pw/stream/186dab52eabcdf6b47765bf93dc370a250af463f1759ce68025a20c01a9ba0d8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东频道",广州综合
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=e4115b603801e53725e7debad2d4f5da&txTime=18dcb681fec
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="广东频道",广州新闻
+https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=b42c824b856e160e5a0373abf08d4042&txTime=18dcb9ef441
+#EXTINF:-1 tvg-id="" tvg-name="广州竞赛" tvg-logo="https://img1.baidu.com/it/u=3588119254,3214023580&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=281" group-title="广东频道",广州竞赛
+https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=bc65bfa6579c3b8e9aed371c9e4e8d5c&txTime=18dcb9ef441
+#EXTINF:-1 tvg-id="" tvg-name="广州影视" tvg-logo="https://live.fanmingming.com/tv/广州影视.png" group-title="广东频道",广州影视
+https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=76640cc3c4c31214c081545e88a0e927&txTime=18dcb9ef441
+#EXTINF:-1 tvg-id="" tvg-name="广州南国都市4K" tvg-logo="http://www.tvyan.com/uploads/dianshi/nanguodushi.jpg" group-title="广东频道",广州南国都市4K
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=72c19b88f56645754b197d7f0517ab21&txTime=18dcb9ef441
+#EXTINF:-1 tvg-id="" tvg-name="广州法治" tvg-logo="https://live.fanmingming.com/tv/广州法治.png" group-title="广东频道",广州法治
+https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=26bff958176cdb8eee28ee52ceaf900b&txTime=18dcb9ef441
+#EXTINF:-1 tvg-id="" tvg-name="环球电视台" tvg-logo="https://live.fanmingming.com/tv/环球电视台.png" group-title="广东频道",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+
+#EXTINF:-1 group-title="港澳&电影" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719083758215404_92.png",RTHK31
+https://epg.pw/stream/8568783627cda34a21ed9b592008372bb4c3ee024828ca9accc07cfa5bb2e798.ctv
+#EXTINF:-1 group-title="港澳&电影" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719083827856598_33.png",RTHK32
+https://epg.pw/stream/448731e2173cfcba0312f36c24379509940b557f1464e7d4e63cbecae1578232.ctv
+#EXTINF:-1 group-title="港澳&电影" tvg-logo="https://https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png",RTHK33
+https://epg.pw/stream/00ea10452b568a8e587ebece8311785afe7f33c41437de0a68839e6392d45dfc.m3u8
+#EXTINF:-1 group-title="港澳&电影" tvg-logo="https://epg.pw/media/images/channel/2022/08/22/large/20220822225312895053_10.png",RTHK34
+https://epg.pw/stream/8dc8b380861cc994bb3d9bb64f415d0d313eef5c60b5efbec01551f461837c92.m3u8
+#EXTINF:-1 group-title="港澳&电影" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png",凤凰香港
+https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
+#EXTINF:-1 group-title="港澳&电影" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png",香港卫视
+http://anren.live/HK/BSJDUFpB.m3u8
+#EXTINF:-1 group-title="港澳&电影" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="港澳&电影" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港澳&电影" tvg-logo="https://live.fanmingming.com/tv/澳亚卫视.png",澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+#EXTINF:-1 group-title="港澳&电影" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png",chc动作电影
+https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
+#EXTINF:-1 group-title="港澳&电影" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204051214143_83.png",chc高清电影
+https://epg.pw/stream/3bcacb2ddf662037b37dee63df19deeeffab03d9025530ab692946de8d43966c.m3u8
+#EXTINF:-1 group-title="港澳&电影" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/893ad6bbc78b8f994774751143496a31.jpg",大爱
+https://epg.pw/stream/634d66848d8e5fe80d4fb498f3de9e0a841cad38d5e9a12d8e1b4a807a7f5857.m3u8
+#EXTINF:-1 group-title="港澳&电影" tvg-logo="https://epg.pw/media/images/channel/2015/05/21/large/20150521014333336253_94.png",大爱2台
+https://epg.pw/stream/60efaf070c91949a4c4e52c9d35746ebfb99b5318b43115c15205965c5807948.m3u8
+#EXTINF:-1 group-title="港澳&电影",香港面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="港澳&电影" tvg-logo="https://live.fanmingming.com/tv/人间卫视",人间卫视
+https://epg.pw/stream/925df6e71c4dd75f935dbe02200a19e3893eea0a125da4d28447546e7a8bd092.m3u8
+#EXTINF:-1 group-title="港澳&电影" tvg-logo="https://live.fanmingming.com/tv/人间卫视",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="港澳&电影" tvg-logo="https://live.fanmingming.com/tv/人间卫视",人间卫视
+https://epg.pw/stream/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e330e85f4351f.m3u8
+#EXTINF:-1 group-title="港澳&电影" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525050911565808_71.png",林正英
+https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv
+#EXTINF:-1 group-title="港澳&电影" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525050911565808_71.png",林正英2
+https://epg.pw/stream/4e286443674c550db0623ec23979bede63bbd674acd01b5c3f3b0ce581579815.ctv
+#EXTINF:-1 group-title="港澳&电影" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525045024714182_29.png",周星驰
+https://epg.pw/stream/697d8897aa092fac7beb31b9806dfd4bb3197e96d9b15e752766d89f5fb66672.ctv
+#EXTINF:-1 group-title="港澳&电影",电影沈腾周星驰
+http://hlsa-akm.douyucdn.cn/85894rmovieChow_4000p.m3u8
+
+
+#EXTINF:-1 group-title="卫视高清" tvg-logo="https://epg.pw/media/images/channel/2021/06/24/large/20210624003447280269_10.png",北京房山电视台
+https://epg.pw/stream/4db2d01f0c03ee3e658baf77e9ca0b8444c748087a3bfaf3c580418be24d0f94.m3u8
+#EXTINF:-1 group-title="卫视高清",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-id="B01" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视高清",湖南卫视
+https://epg.pw/stream/ef71867a8644735b09f5399278a3ce67b0cd46e1100159c789b9240a5bf4c2bb.m3u8
+#EXTINF:-1 tvg-id="B39" tvg-name="延边卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Yanbian.png" group-title="卫视高清",延边卫视
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+#EXTINF:-1 tvg-id="B35" tvg-name="安多卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anduo.png" group-title="卫视高清",安多卫视
+http://stream.qhbtv.com/adws/sd/live.m3u8
+#EXTINF:-1 tvg-id="B28" tvg-name="青海卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qinghai.png" group-title="卫视高清",青海卫视
+http://stream.qhbtv.com/qhws/playlist.m3u8
+#EXTINF:-1 tvg-id="B28" tvg-name="青海卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qinghai.png" group-title="卫视高清",青海卫视
+http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
+#EXTINF:-1 tvg-id="B28" tvg-name="青海卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qinghai.png" group-title="卫视高清",青海卫视
+http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
+#EXTINF:-1 tvg-id="B28" tvg-name="青海卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qinghai.png" group-title="卫视高清",青海卫视
+http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
+#EXTINF:-1 tvg-id="B28" tvg-name="青海卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qinghai.png" group-title="卫视高清",青海卫视
+http://stream.qhbtv.com/qhws/sd/live.m3u8
+#EXTINF:-1 tvg-id="B34" tvg-name="兵团卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Bingtuan.png" group-title="卫视高清",兵团卫视
+https://epg.pw/stream/d84efa5eb598b5211d873bf4c345d5e25800edcf2b6cea4cc78e5c909b15b625.m3u8
+#EXTINF:-1 tvg-id="B32" tvg-name="内蒙古卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng.png" group-title="卫视高清",内蒙古卫视
+https://epg.pw/stream/4771a189ad19420bb986b757be6eebee1b68d9f586e1580a742e4a63d015a966.m3u8
+#EXTINF:-1 tvg-id="B30" tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi_.png" group-title="卫视高清",山西卫视
+https://epg.pw/stream/f3585857f1474c6f9527ea29a7a99115a86855d9addb67619aa9a033299b48eb.m3u8
+#EXTINF:-1 tvg-id="B30" tvg-name="山西卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514162237808392_17.jpg" group-title="卫视高清",三沙卫视
+https://epg.pw/stream/712109931b33144ac87c49571d93a92a669c2aaea3e7999cf75c5acdd9f0e552.m3u8
+
+
+
+
